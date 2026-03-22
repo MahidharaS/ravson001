@@ -1,0 +1,6 @@
+# No required Python packages for the default stdlib transport path.
+# Optional local-model backends:
+# pillow>=10.0.0
+# sentence-transformers>=3.0.0
+# torch>=2.4.0
+# transformers>=4.45.0
