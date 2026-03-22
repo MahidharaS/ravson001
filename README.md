@@ -88,22 +88,6 @@ Supported file types:
 - `.txt`
 - `.json`
 
-Example personalized structure:
-
-```text
-knowledge_base/
-├── company/
-│   ├── about.md
-│   ├── hiring_values.md
-│   └── candidate_profiles/
-│       └── your_resume.md
-├── policies/
-│   ├── leave_policy.md
-│   └── expense_policy.md
-└── products/
-    └── roadmap.txt
-```
-
 After adding or editing files, restart the bot so it rebuilds the index.
 
 ### 3. Full local-model setup with Ollama
