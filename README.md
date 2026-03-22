@@ -1,5 +1,13 @@
 # Project RAG Vision Bot
 
+## Try It Live
+
+Search for **@reavson001** on Telegram and start a conversation.
+
+> Note: The bot is live but running without a backend engine in this deployment.
+> RAG answers and image captioning are not active — you can explore the commands
+> and interface. Full functionality runs locally following the setup steps below.
+
 `project-rag-vision-bot` is a lightweight hybrid Telegram bot that satisfies the assignment prompt with:
 
 - `/ask <query>` for document-grounded answers from a local knowledge base
